@@ -1,0 +1,48 @@
+{
+ "v": 1,
+ "box": "Holy Program",
+ "updatedAt": "2026-11-16T18:13:14.632Z",
+ "days": [
+  {
+   "date": "2026-11-13",
+   "title": "WOD",
+   "tracks": [
+    "Holy Pump",
+    "Holy Conditioning",
+    "Full Equipment",
+    "Evo Equipment"
+   ],
+   "image": false
+  },
+  {
+   "date": "2026-11-03",
+   "title": "WOD",
+   "tracks": [
+    "Full Equipment",
+    "Evo Equipment",
+    "Holy Running Club",
+    "Holy Conditioning"
+   ],
+   "image": false
+  },
+  {
+   "date": "2026-10-31",
+   "title": "Coaches Are Watching",
+   "tracks": [
+    "Holy Pump",
+    "Holy Conditioning",
+    "Full Equipment",
+    "Evo Equipment"
+   ],
+   "image": false
+  },
+  {
+   "date": "2026-10-30",
+   "title": "",
+   "tracks": [
+    "Full Equipment"
+   ],
+   "image": false
+  }
+ ]
+}
