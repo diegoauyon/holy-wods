@@ -1,7 +1,7 @@
 {
  "v": 1,
  "box": "Holy Program",
- "updatedAt": "2026-11-16T16:47:54.219Z",
+ "updatedAt": "2026-11-16T18:13:14.632Z",
  "programs": [
   {
    "date": "2026-11-03",
@@ -1551,5 +1551,6 @@
     }
    ]
   }
- ]
+ ],
+ "archive": "archive/index.json"
 }
