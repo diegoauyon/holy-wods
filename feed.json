@@ -1,7 +1,7 @@
 {
  "v": 1,
  "box": "Holy Program",
- "updatedAt": "2026-11-16T18:13:14.632Z",
+ "updatedAt": "2026-11-17T15:20:42.786Z",
  "programs": [
   {
    "date": "2026-11-03",
@@ -1542,6 +1542,714 @@
            "dose": {
             "m": 1000
            }
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "title": "WOD",
+   "tracks": [
+    {
+     "label": "Full Equipment",
+     "kind": "main",
+     "blocks": [
+      {
+       "label": "WARM UP AMRAP 5",
+       "format": "amrap",
+       "capMin": 5,
+       "rounds": null,
+       "roundsMax": null,
+       "everySec": null,
+       "scheme": null,
+       "benchmark": null,
+       "warmup": true,
+       "raw": "WARM UP\nAMRAP 5\n20 seg machine\n10 Lunges\n5 DL Jump + 5 Good mornings\n10 Blast off Push ups",
+       "movements": [
+        {
+         "raw": "20 seg machine",
+         "rawName": "machine",
+         "exId": "2192",
+         "dose": {
+          "sec": 20
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "10 Lunges",
+         "rawName": "lunges",
+         "exId": "0612",
+         "dose": {
+          "reps": 10
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "5 DL Jump + 5 Good mornings",
+         "rawName": "dl jump",
+         "exId": "4964",
+         "dose": {
+          "reps": 5
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "5 DL Jump + 5 Good mornings",
+         "rawName": "good mornings",
+         "exId": "0044",
+         "dose": {
+          "reps": 5
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "10 Blast off Push ups",
+         "rawName": "blast off push ups",
+         "exId": null,
+         "dose": {
+          "reps": 10
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        }
+       ]
+      },
+      {
+       "label": "MIN 1-5",
+       "format": "strength",
+       "capMin": 15,
+       "rounds": null,
+       "roundsMax": null,
+       "everySec": null,
+       "scheme": null,
+       "benchmark": null,
+       "warmup": false,
+       "raw": "TC 15 COLECTIVO\nMIN 1-5\nBUILD WEIGHT",
+       "movements": []
+      },
+      {
+       "label": "THEN 4-5 RONDAS",
+       "format": "strength",
+       "capMin": null,
+       "rounds": 4,
+       "roundsMax": 5,
+       "everySec": null,
+       "scheme": null,
+       "benchmark": null,
+       "warmup": false,
+       "raw": "TC 15 COLECTIVO\nTHEN\n4-5 RONDAS\n4 Front Rack Lunges\nCOMPLEX",
+       "movements": [
+        {
+         "raw": "4 Front Rack Lunges",
+         "rawName": "front rack lunges",
+         "exId": "3399",
+         "dose": {
+          "reps": 4
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        }
+       ]
+      },
+      {
+       "label": "TC 9",
+       "format": "interval",
+       "capMin": 9,
+       "rounds": null,
+       "roundsMax": null,
+       "everySec": 90,
+       "scheme": null,
+       "benchmark": null,
+       "warmup": false,
+       "raw": "TC 9\nPARNER WOD\nEVERY 1:30x6\nPARNER A 22 Wall Balls\nPARNER B 22 Cal Bike/ski/Row\n*Cambian cada 1:30",
+       "movements": [
+        {
+         "raw": "PARNER A 22 Wall Balls",
+         "rawName": "wall balls",
+         "exId": "2458",
+         "dose": {
+          "reps": 22
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "PARNER B 22 Cal Bike/ski/Row",
+         "rawName": "bike",
+         "exId": "3893",
+         "dose": {
+          "cal": 22
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": [
+          {
+           "rawName": "ski",
+           "exId": "2142",
+           "dose": {
+            "cal": 22
+           }
+          },
+          {
+           "rawName": "row",
+           "exId": "1161",
+           "dose": {
+            "cal": 22
+           }
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "label": "TC 10",
+       "format": "fortime",
+       "capMin": 10,
+       "rounds": null,
+       "roundsMax": null,
+       "everySec": null,
+       "scheme": "4-6-8-10-12-10-8-6-4",
+       "benchmark": null,
+       "warmup": false,
+       "raw": "TC 10\nPARNER WOD\n4-6-8-10-12-10-8-6-4\nDB´s Squats + F. Squats 115/75 sincro\nDB´s Lunges + Lunges 115/75 Sincro\nDB´s DL + DL 115/75 sincro\n*Pueden cambiar cuando quieran",
+       "movements": [
+        {
+         "raw": "DB´s Squats + F. Squats 115/75 sincro",
+         "rawName": "db´s squats",
+         "exId": "0413",
+         "dose": {},
+         "rx": {
+          "male": {
+           "w": 115,
+           "unit": "lb"
+          },
+          "female": {
+           "w": 75,
+           "unit": "lb"
+          }
+         },
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "DB´s Squats + F. Squats 115/75 sincro",
+         "rawName": "f. squats",
+         "exId": "0042",
+         "dose": {},
+         "rx": {
+          "male": {
+           "w": 115,
+           "unit": "lb"
+          },
+          "female": {
+           "w": 75,
+           "unit": "lb"
+          }
+         },
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "DB´s Lunges + Lunges 115/75 Sincro",
+         "rawName": "db´s lunges",
+         "exId": "0336",
+         "dose": {},
+         "rx": {
+          "male": {
+           "w": 115,
+           "unit": "lb"
+          },
+          "female": {
+           "w": 75,
+           "unit": "lb"
+          }
+         },
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "DB´s Lunges + Lunges 115/75 Sincro",
+         "rawName": "lunges",
+         "exId": "0612",
+         "dose": {},
+         "rx": {
+          "male": {
+           "w": 115,
+           "unit": "lb"
+          },
+          "female": {
+           "w": 75,
+           "unit": "lb"
+          }
+         },
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "DB´s DL + DL 115/75 sincro",
+         "rawName": "db´s dl",
+         "exId": "0300",
+         "dose": {},
+         "rx": {
+          "male": {
+           "w": 115,
+           "unit": "lb"
+          },
+          "female": {
+           "w": 75,
+           "unit": "lb"
+          }
+         },
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "DB´s DL + DL 115/75 sincro",
+         "rawName": "dl",
+         "exId": "0032",
+         "dose": {},
+         "rx": {
+          "male": {
+           "w": 115,
+           "unit": "lb"
+          },
+          "female": {
+           "w": 75,
+           "unit": "lb"
+          }
+         },
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Evo Equipment",
+     "kind": "main",
+     "blocks": [
+      {
+       "label": "WARM UP AMRAP 5",
+       "format": "amrap",
+       "capMin": 5,
+       "rounds": null,
+       "roundsMax": null,
+       "everySec": null,
+       "scheme": null,
+       "benchmark": null,
+       "warmup": true,
+       "raw": "WARM UP\nAMRAP 5\n20 seg machine\n10 Lunges\n5 DL Jump + 5 Good mornings\n10 Blast off Push ups",
+       "movements": [
+        {
+         "raw": "20 seg machine",
+         "rawName": "machine",
+         "exId": "2192",
+         "dose": {
+          "sec": 20
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "10 Lunges",
+         "rawName": "lunges",
+         "exId": "0612",
+         "dose": {
+          "reps": 10
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "5 DL Jump + 5 Good mornings",
+         "rawName": "dl jump",
+         "exId": "4964",
+         "dose": {
+          "reps": 5
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "5 DL Jump + 5 Good mornings",
+         "rawName": "good mornings",
+         "exId": "0044",
+         "dose": {
+          "reps": 5
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "10 Blast off Push ups",
+         "rawName": "blast off push ups",
+         "exId": null,
+         "dose": {
+          "reps": 10
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        }
+       ]
+      },
+      {
+       "label": "MIN 1-12 EMOM 12",
+       "format": "emom",
+       "capMin": 12,
+       "rounds": null,
+       "roundsMax": null,
+       "everySec": null,
+       "scheme": null,
+       "benchmark": null,
+       "warmup": false,
+       "raw": "TC 40 PARNER WOD\nMIN 1-12 EMOM 12\nMax run elevación 6 / Bike tamper 10\n*A WORK B REST Cada Minuto cambian\n*Cambio sin apagar corredoras",
+       "movements": [
+        {
+         "raw": "Max run elevación 6 / Bike tamper 10",
+         "rawName": "run elevación 6",
+         "exId": null,
+         "dose": {},
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": [
+          {
+           "rawName": "bike tamper 10",
+           "exId": null,
+           "dose": {}
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "label": "MIN 13-24 TC 12",
+       "format": "fortime",
+       "capMin": 12,
+       "rounds": null,
+       "roundsMax": null,
+       "everySec": null,
+       "scheme": "4-6-8-10-12-14-12-10-8-6-4",
+       "benchmark": null,
+       "warmup": false,
+       "raw": "TC 40 PARNER WOD\nMIN 13-24 TC 12\n4-6-8-10-12-14-12-10-8-6-4\nDB´s Squats + KB´s Squats 24/16 sincro\nDB´s Lunges +  KB´s Lunges 24/16 Sincro\nDB´s DL + KB´s DL 24/16 sincro\n*Pueden cambiar cuando quieran",
+       "movements": [
+        {
+         "raw": "DB´s Squats + KB´s Squats 24/16 sincro",
+         "rawName": "db´s squats",
+         "exId": "0413",
+         "dose": {},
+         "rx": {
+          "male": {
+           "w": 24,
+           "unit": "lb"
+          },
+          "female": {
+           "w": 16,
+           "unit": "lb"
+          }
+         },
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "DB´s Squats + KB´s Squats 24/16 sincro",
+         "rawName": "kb´s squats",
+         "exId": "10673",
+         "dose": {},
+         "rx": {
+          "male": {
+           "w": 24,
+           "unit": "lb"
+          },
+          "female": {
+           "w": 16,
+           "unit": "lb"
+          }
+         },
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "DB´s Lunges +  KB´s Lunges 24/16 Sincro",
+         "rawName": "db´s lunges",
+         "exId": "0336",
+         "dose": {},
+         "rx": {
+          "male": {
+           "w": 24,
+           "unit": "lb"
+          },
+          "female": {
+           "w": 16,
+           "unit": "lb"
+          }
+         },
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "DB´s Lunges +  KB´s Lunges 24/16 Sincro",
+         "rawName": "kb´s lunges",
+         "exId": null,
+         "dose": {},
+         "rx": {
+          "male": {
+           "w": 24,
+           "unit": "lb"
+          },
+          "female": {
+           "w": 16,
+           "unit": "lb"
+          }
+         },
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "DB´s DL + KB´s DL 24/16 sincro",
+         "rawName": "db´s dl",
+         "exId": "0300",
+         "dose": {},
+         "rx": {
+          "male": {
+           "w": 24,
+           "unit": "lb"
+          },
+          "female": {
+           "w": 16,
+           "unit": "lb"
+          }
+         },
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "DB´s DL + KB´s DL 24/16 sincro",
+         "rawName": "kb´s dl",
+         "exId": "3322",
+         "dose": {},
+         "rx": {
+          "male": {
+           "w": 24,
+           "unit": "lb"
+          },
+          "female": {
+           "w": 16,
+           "unit": "lb"
+          }
+         },
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        }
+       ]
+      },
+      {
+       "label": "MIN 25-36 EMOM 12",
+       "format": "emom",
+       "capMin": 12,
+       "rounds": null,
+       "roundsMax": null,
+       "everySec": null,
+       "scheme": null,
+       "benchmark": null,
+       "warmup": false,
+       "raw": "TC 40 PARNER WOD\nMIN 25-36 EMOM 12\n30 Wall Balls\n*A WORK B REST Cada Minuto cambian",
+       "movements": [
+        {
+         "raw": "30 Wall Balls",
+         "rawName": "wall balls",
+         "exId": "2458",
+         "dose": {
+          "reps": 30
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        }
+       ]
+      },
+      {
+       "label": "THEN TC 4 COLECTIVO",
+       "format": "fortime",
+       "capMin": 4,
+       "rounds": null,
+       "roundsMax": null,
+       "everySec": null,
+       "scheme": null,
+       "benchmark": null,
+       "warmup": false,
+       "raw": "THEN TC 4 COLECTIVO\n80 Nastys",
+       "movements": [
+        {
+         "raw": "80 Nastys",
+         "rawName": "nastys",
+         "exId": null,
+         "dose": {
+          "reps": 80
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Holy Running Club 5:00 AM",
+     "kind": "extra",
+     "blocks": []
+    },
+    {
+     "label": "Holy Program Vitality Z14",
+     "kind": "extra",
+     "blocks": [
+      {
+       "label": "Calentamiento 15 min",
+       "format": "other",
+       "capMin": 15,
+       "rounds": null,
+       "roundsMax": null,
+       "everySec": null,
+       "scheme": null,
+       "benchmark": null,
+       "warmup": true,
+       "raw": "Calentamiento 15 min",
+       "movements": []
+      },
+      {
+       "label": "WOD",
+       "format": "interval",
+       "capMin": null,
+       "rounds": null,
+       "roundsMax": null,
+       "everySec": null,
+       "scheme": null,
+       "benchmark": null,
+       "warmup": false,
+       "raw": "WOD\n3x12 min de carrera continua x 2 de pausa\n4x200 x 1 de pausa",
+       "movements": [
+        {
+         "raw": "3x12 min de carrera continua x 2 de pausa",
+         "rawName": "carrera continua",
+         "exId": "0685",
+         "dose": {
+          "sec": 720,
+          "sets": 3,
+          "restSec": 120
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        },
+        {
+         "raw": "4x200 x 1 de pausa",
+         "rawName": "run",
+         "exId": "0685",
+         "dose": {
+          "m": 200,
+          "sets": 4,
+          "restSec": 60
+         },
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "label": "Holy Conditioning",
+     "kind": "extra",
+     "blocks": [
+      {
+       "label": "AMRAP 40",
+       "format": "amrap",
+       "capMin": 40,
+       "rounds": null,
+       "roundsMax": null,
+       "everySec": null,
+       "scheme": null,
+       "benchmark": null,
+       "warmup": false,
+       "raw": "AMRAP 40\nEasy Run/Bike/Row/Ski",
+       "movements": [
+        {
+         "raw": "Easy Run/Bike/Row/Ski",
+         "rawName": "easy run",
+         "exId": "0685",
+         "dose": {},
+         "rx": null,
+         "perSide": false,
+         "slot": null,
+         "alts": [
+          {
+           "rawName": "bike",
+           "exId": "3893",
+           "dose": {}
+          },
+          {
+           "rawName": "row",
+           "exId": "1161",
+           "dose": {}
+          },
+          {
+           "rawName": "ski",
+           "exId": "2142",
+           "dose": {}
           }
          ]
         }
