@@ -1,8 +1,20 @@
 {
  "v": 1,
  "box": "Holy Program",
- "updatedAt": "2026-11-16T18:13:14.632Z",
+ "updatedAt": "2026-11-17T15:20:42.786Z",
  "days": [
+  {
+   "date": "2026-11-17",
+   "title": "WOD",
+   "tracks": [
+    "Full Equipment",
+    "Evo Equipment",
+    "Holy Running Club 5:00 AM",
+    "Holy Program Vitality Z14",
+    "Holy Conditioning"
+   ],
+   "image": true
+  },
   {
    "date": "2026-11-13",
    "title": "WOD",
